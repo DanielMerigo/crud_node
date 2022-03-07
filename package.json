@@ -1,0 +1,19 @@
+{
+  "name": "carros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "git": "^0.1.5",
+    "morgan": "^1.10.0",
+    "pg": "^8.7.3"
+  }
+}
